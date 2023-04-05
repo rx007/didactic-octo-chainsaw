@@ -14,14 +14,14 @@ source 'https://rubygems.org'
 # gem 'oj'
 
 # Project requirements
-gem 'rake'
+gem 'rake', '>= 12.3.3'
 
 # Component requirements
 
 # Test requirements
 
 # Padrino Stable Gem
-gem 'padrino', '0.13.2'
+gem 'padrino', '0.13.3.1'
 
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'
